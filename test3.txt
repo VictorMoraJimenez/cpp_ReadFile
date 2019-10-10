@@ -1,0 +1,11 @@
+La Internet de les coses (de l'anglès Internet of Things o IoT) es refereix, en termes d'informàtica, a una xarxa d'objectes de la vida quotidiana interconnectats.[1] El terme d'Internet de les coses s'atribueix a Auto-ID Center, que va ser fundat el 1999 i inspirat en el MIT.[2][3][4][5]
+
+El concepte és molt senzill però la seva aplicació és complicada. Si tots els llibres, samarretes, llaunes o parts d'una motocicleta estiguessin equipats amb dispositius d'identificació minúsculs, la vida rutinària en el nostre planeta patiria una transformació. Desapareixerien els objectes perduts, perquè nosaltres sabríem concretament el que es consumeix a l'altra banda de la Terra. Al mateix torn, els robatoris s'extingirien, ja que coneixeríem el lloc on es troba el producte en qualsevol moment.
+
+Si tots els objectes quotidians, des del iogurt fins a un helicòpter, estiguessin equipats amb etiquetes de ràdio, podrien ser identificats i gestionats per equips de la mateixa manera que si ho fossin per éssers humans.[6][7] Amb el nou sistema de generació d'identificadors amb el protocol IPv6 es poden identificar tots els objectes, cosa que abans no era possible amb IPv4. Aquest sistema és capaç d'identificar de forma instantània qualsevol tipus d'objecte.[8]
+
+L'Internet de les coses podria codificar de 50 a 100.000 milions d'objectes i seguir el moviment d'aquests. Cada ésser humà es troba envoltat de 1.000 a 5.000 objectes.[9]
+
+El servei touchatag d'Alcatel-Lucent touchatag i el gadget Violeta Mirror poden proporcionar una visió d'orientació pragmàtica als consumidors de l'Internet de les coses, pel que qualsevol pot enllaçar elements del món real al món en línia utilitzant les etiquetes RFID (i codis QR en el cas de touchatag).
+
+Hi ha estimacions de 200 mil milions de dispositius connectats en un futur pròxim. El valor del mercat es projecta a 80 mil milions de dòlars.[10]

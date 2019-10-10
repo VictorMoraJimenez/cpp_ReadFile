@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Vscode compilation files 
+.vscode/tasks.json
+.vscode/launch.json
