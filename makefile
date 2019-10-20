@@ -3,7 +3,7 @@ CFLAGS = -c
 # list of files to be compiled
 SOURCES =  main.cpp
 FILES = $(SOURCES:.cpp=.o)
-
+# Program name
 PROGRAM = cpp_readfile.out
 
 all: $(FILES) $(PROGRAM)
